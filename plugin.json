@@ -2,7 +2,7 @@
     "ID": "A9146CE142EB89147D29A46F32DB5E9F",
     "ActionKeyword": "wa",
     "Name": "WolframAlpha",
-    "Description": "A plugin for Flow Launcher to get answers from WolframAlpha Short Answers API",
+    "Description": "Get answers from WolframAlpha Short Answers API",
     "Author": "adielBm",
     "Version": "1.0.0",
     "Language": "csharp",
